@@ -54,3 +54,11 @@ Thumbs.db
 
 # lab
 lab_source/
+
+# codex
+.codex/
+.agents/
+
+# Claude Code
+.claude/
+CLAUDE.local.md
